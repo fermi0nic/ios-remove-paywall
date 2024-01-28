@@ -4,7 +4,9 @@ Allows users to quickly create archived pages and bypass paywalls from Safari.
 
 ### Installation and Configuration
 
-**Step 1:** [Click here to install the shortcut] (Remove%20Paywall.shortcut)
+**Step 1:**
+
+[Click here to install the shortcut] (Remove%20Paywall.shortcut)
 
 
 > Here, you will be prompted to add the shortcut. 
